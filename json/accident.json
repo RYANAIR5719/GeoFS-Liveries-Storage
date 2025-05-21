@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Accident and Incident Aircraft Liveries",
+    "color": "#404040",
+    "bgcolor": "#C0C0C0",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,6 +31,24 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "AIRES Flight 8250",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Livery-Storage/main/737/-700/HK-4682/Specular.jpg",
+                        "https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Livery-Storage/main/737/-700/HK-4682/Texture.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "Southwest Airlines Flight 1380",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Livery-Storage/main/737/-700/N772SW/Texture.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
             ],
             "labels": [
                 "Normal map",
