@@ -1,2 +1,2 @@
-# Hello, and welcome to my "private" storage for my liveries!
+# Hello, and welcome to the "private" storage for my liveries!
 Here, you can see ALL the liveries that I created. Most of them are included in the LiverySelector created by Kolos26, but you can also find some of my secret liveries...
