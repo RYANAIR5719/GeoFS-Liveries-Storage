@@ -1,4 +1,4 @@
-# GeoFS Liveries Storage
+# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage
 
 <p align="center">
     <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=flat-square&color=light-green">
