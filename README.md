@@ -1,9 +1,4 @@
-# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage
-
-<p align="center">
-    <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=flat-square&color=light-green">
-    <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=flat-square&color=light-green">
-</p>
+# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=flat-square&color=light-green"> <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=flat-square&color=light-green">
 
 Hello, and welcome to the "private" storage for my liveries! Here, you can see ALL the liveries that I created. Most of them are included in the LiverySelector created by Kolos26, but you can also find some of my secret liveries...
 
