@@ -2,6 +2,9 @@
 
 Hello, and welcome to the "private" storage for my liveries! Here, you can see ALL the liveries that I created. Most of them are included in the LiverySelector created by Kolos26, but you can also find some of my secret liveries...
 
+## To Do List
+- [ ] Remake **all** the **737-800** liveries with the new template. 🚨
+
 ## Aircraft I commonly make liveries with
 * A320 (all family members)
 * Boeing 737 (all variants)
