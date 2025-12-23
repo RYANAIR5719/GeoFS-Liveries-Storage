@@ -1,8 +1,4 @@
-# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge"> <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge">
-
-<p align="center">
-<a target="_blank" href="https://discordapp.com/users/1086181352707194911"><img src="https://dcbadge.limes.pink/api/shield/1086181352707194911" alt="https://discordapp.com/users/1086181352707194911"/></a>
-</p>
+# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge"> <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge"> <a target="_blank" href="https://discordapp.com/users/1086181352707194911"><img src="https://dcbadge.limes.pink/api/shield/1086181352707194911" alt="https://discordapp.com/users/1086181352707194911"/></a>
 
 Hello, and welcome to the "private" storage for my liveries! Here, you can see ALL the liveries that I created. Most of them are included in the LiverySelector created by Kolos26, but you can also find some of my secret liveries...
 
