@@ -1,4 +1,4 @@
-# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge"> <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=for-the-badge"> 
+# <img width="25" height="25" alt="logo" src="https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/logo.png" /> GeoFS Liveries Storage <img alt="Stars Badge" src="https://img.shields.io/github/watchers/RYANAIR5719/GeoFS-Liveries-Storage?style=flat"> <img alt="Stars Badge" src="https://img.shields.io/github/stars/RYANAIR5719/GeoFS-Liveries-Storage?style=flat"> 
 <p align="center">
 <a target="_blank" href="https://discordapp.com/users/1086181352707194911"><img src="https://dcbadge.limes.pink/api/shield/1086181352707194911" alt="https://discordapp.com/users/1086181352707194911"/></a>
 </p>
