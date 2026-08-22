@@ -5,10 +5,9 @@ Hello, and welcome to the "private" storage for my liveries! Here, you can see A
 - [ ] Remake **all** the **737-800** liveries with the new template. 🚨
 
 ## Aircraft I commonly make liveries with
-* A320 (all family members)
 * Boeing 737 (all variants)
-* Boeing 767-300ER
 * Embraer E170
+* Embraer E190
 
 I also create liveries for the ATR-72, 747, 777, and 787, as well as other aircraft types occasionally. If you'd like me to make a livery, whether it is fictional or not, [submit an issue](https://github.com/RYANAIR5719/GeoFS-Liveries-Storage/issues) in this repository, and I will respond as soon as possible!
 
